@@ -28,7 +28,6 @@ end
 
 println("3a) Prix de l'option call (arbre binomial à 4 étapes): ", round(option[1,1], digits=4))
 
-
 # Question 3b) - Prix Black-Scholes et probabilité in-the-money
 using Distributions
 

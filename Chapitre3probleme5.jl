@@ -42,5 +42,4 @@ function arbre_binomial_court()
     println("Profit sans risque: ", round(profit, digits=4))
 end
 
-# Exécution
 arbre_binomial_court()
